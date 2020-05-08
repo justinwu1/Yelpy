@@ -1,0 +1,14 @@
+.restaurant-item{
+    display:flex !important;
+    align-items:center;
+    cursor:pointer;
+}
+.restaurant-item:hover,
+.restaurant-item:active{
+    background-color: #ffa502;
+
+}
+
+.yelp{
+    color:#d32323;
+}
