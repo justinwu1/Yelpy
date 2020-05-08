@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/justinwu1/yelpy/static/css/main.f71e5395.chunk.css",
-    "main.js": "/justinwu1/yelpy/static/js/main.45ed93dd.chunk.js",
-    "main.js.map": "/justinwu1/yelpy/static/js/main.45ed93dd.chunk.js.map",
-    "runtime-main.js": "/justinwu1/yelpy/static/js/runtime-main.1cc40a69.js",
-    "runtime-main.js.map": "/justinwu1/yelpy/static/js/runtime-main.1cc40a69.js.map",
-    "static/js/2.b0c74f36.chunk.js": "/justinwu1/yelpy/static/js/2.b0c74f36.chunk.js",
-    "static/js/2.b0c74f36.chunk.js.map": "/justinwu1/yelpy/static/js/2.b0c74f36.chunk.js.map",
-    "index.html": "/justinwu1/yelpy/index.html",
-    "precache-manifest.10fe3158fe2c586cc04db538fc985de1.js": "/justinwu1/yelpy/precache-manifest.10fe3158fe2c586cc04db538fc985de1.js",
-    "service-worker.js": "/justinwu1/yelpy/service-worker.js",
-    "static/css/main.f71e5395.chunk.css.map": "/justinwu1/yelpy/static/css/main.f71e5395.chunk.css.map",
-    "static/js/2.b0c74f36.chunk.js.LICENSE.txt": "/justinwu1/yelpy/static/js/2.b0c74f36.chunk.js.LICENSE.txt"
+    "main.css": "/yelpy/static/css/main.f71e5395.chunk.css",
+    "main.js": "/yelpy/static/js/main.45ed93dd.chunk.js",
+    "main.js.map": "/yelpy/static/js/main.45ed93dd.chunk.js.map",
+    "runtime-main.js": "/yelpy/static/js/runtime-main.42e05c4c.js",
+    "runtime-main.js.map": "/yelpy/static/js/runtime-main.42e05c4c.js.map",
+    "static/js/2.b0c74f36.chunk.js": "/yelpy/static/js/2.b0c74f36.chunk.js",
+    "static/js/2.b0c74f36.chunk.js.map": "/yelpy/static/js/2.b0c74f36.chunk.js.map",
+    "index.html": "/yelpy/index.html",
+    "precache-manifest.c01ca2adbd24e749c9873336c858348f.js": "/yelpy/precache-manifest.c01ca2adbd24e749c9873336c858348f.js",
+    "service-worker.js": "/yelpy/service-worker.js",
+    "static/css/main.f71e5395.chunk.css.map": "/yelpy/static/css/main.f71e5395.chunk.css.map",
+    "static/js/2.b0c74f36.chunk.js.LICENSE.txt": "/yelpy/static/js/2.b0c74f36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cc40a69.js",
+    "static/js/runtime-main.42e05c4c.js",
     "static/js/2.b0c74f36.chunk.js",
     "static/css/main.f71e5395.chunk.css",
     "static/js/main.45ed93dd.chunk.js"
